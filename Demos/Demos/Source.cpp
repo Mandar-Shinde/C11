@@ -4,6 +4,5 @@
 
 int main()
 {
-	printf("test app");
-
+	printf("c++11 Demos ");
 }
